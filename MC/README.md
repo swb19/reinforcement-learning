@@ -50,3 +50,4 @@
 
 ### 专栏参考
 - http://fancyerii.github.io/books/rl3/
+- http://fancyerii.github.io/2019/03/14/dl-book/
