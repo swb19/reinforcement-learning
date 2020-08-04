@@ -47,3 +47,6 @@
 - Implement the off-policy every-visit Monte Carlo Control using Weighted Important Sampling algorithm
   - [Exercise](Off-Policy%20MC%20Control%20with%20Weighted%20Importance%20Sampling.ipynb)
   - [Solution](Off-Policy%20MC%20Control%20with%20Weighted%20Importance%20Sampling%20Solution.ipynb)
+
+### 参考
+- http://fancyerii.github.io/books/rl3/
