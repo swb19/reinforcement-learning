@@ -24,7 +24,7 @@ All code is written in Python 3 and uses RL environments from [OpenAI Gym](https
 - Exploration and Exploitation (WIP)
 
 ### 专栏参考
-- [李想博客](http://fancyerii.github.io/2019/03/14/dl-book/)
+- [李理博客](http://fancyerii.github.io/2019/03/14/dl-book/)
 
 ### List of Implemented Algorithms
 
